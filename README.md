@@ -27,7 +27,11 @@ virus_total_scanner/
 └── README.md                 # This file
 ```
 
-## Architecture
+<img width="1173" height="768" alt="Screenshot from 2026-04-06 17-48-53" src="https://github.com/user-attachments/assets/823fea31-7a43-472a-9c44-49bf0ffbde4b" />
+
+<img width="1179" height="773" alt="Screenshot from 2026-04-06 17-46-28" src="https://github.com/user-attachments/assets/a30bcecd-0a61-418d-9c06-1766ef1a1991" />
+
+
 
 ### Core Components
 

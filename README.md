@@ -16,7 +16,6 @@ A desktop application built with PyQt6 that scans files using the VirusTotal API
 ```
 virus_total_scanner/
 ├── src/
-│   ├── __init__.py           # Package init
 │   ├── main.py               # Main application, all GUI widgets and logic
 │   ├── vt_client.py          # VirusTotal API client with rate limiting and caching
 │   ├── scan_history_db.py    # SQLite database for storing scan history
